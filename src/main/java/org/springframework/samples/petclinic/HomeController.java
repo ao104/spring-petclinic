@@ -22,5 +22,5 @@ public class HomeController {
         model.addAttribute("ownerCount", ownerCount);
         return "home";
     }
-    //
+    //test
 }
